@@ -13,7 +13,7 @@ can use in.bmp to test program</br>
 
 ex: 
 test.exe in.bmp out.bmp
-===============================
+--------------------------------------------
 1.將bmp.c、image.c、image.h和任一資料夾中的.c檔(main)放在一起即可編譯。
 
 2.產生出來的.exe檔，需用cmd下指令給參數，
