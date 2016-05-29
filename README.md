@@ -1,4 +1,5 @@
 <h1>103-1-ImageProcessing Final Project</h1>
+<h2>Implement distorting mirror</h2>
 
 1.
 Put bmp.c, image.c and image.h with any folder of .c file.(main)
