@@ -1,11 +1,11 @@
-<h1>103-1-ImageProcessing Final Project</h1>
-<h2>Implement distorting mirror</h2>
+<h1>103-1-ImageProcessing</h1>
+<h2>Final Project Implement distorting mirror</h2>
 
 1.
 Put bmp.c, image.c and image.h with any folder of .c file.(main)
 
 2.
-Use cmd in parameters
+Use cmd in 3 parameters
 
 first: executable file name</br>
 second: input image(bmp only)</br>
