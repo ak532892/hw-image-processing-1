@@ -21,6 +21,8 @@ test.exe in.bmp out.bmp
 ![alt tag](http://i.imgur.com/VE3ToX6.png)
 * Compare
 ![alt tag](http://i.imgur.com/OGM4cDo.jpg)
-* Others effect
+
+* Others effect 
+
 ![alt tag](http://i.imgur.com/lVkDZOR.png)
 ![alt tag](http://i.imgur.com/wai7Mz9.png)
