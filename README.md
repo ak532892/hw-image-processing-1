@@ -1,16 +1,19 @@
-<h1>103-1-ImageProcessing</h1>
-<h2>Final Project implement distorting mirror</h2>
+# hw-image-processing
 
-1.
-Put bmp.c, image.c and image.h with any folder of .c file.(main)
+* Course - [Image Analysis And Processing 103-1](http://selquery.ttu.edu.tw/Main/syllabusview.php?SbjNo=I5560)
+* C
 
-2.
-Use cmd in 3 parameters
+## Final Project implement distorting mirror ##
 
-first: executable file name</br>
-second: input image(bmp only)</br>
-third: output image(bmp only)</br>
-can use in.bmp to test program</br>
+1. Put bmp.c, image.c and image.h with any folder of .c file.(main)
+2. Use command-line in 3 parameters
 
-ex: 
+* first: executable file name
+* second: input image(bmp only)
+* third: output image(bmp only)
+* can use in.bmp to test program
+
+## Example ##
+```bash
 test.exe in.bmp out.bmp
+```
