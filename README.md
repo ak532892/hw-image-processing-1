@@ -8,12 +8,19 @@
 1. Put bmp.c, image.c and image.h with any folder of .c file.(main)
 2. Use command-line in 3 parameters
 
-* first: executable file name
-* second: input image(bmp only)
-* third: output image(bmp only)
-* can use in.bmp to test program
+* First: executable file name
+* Second: input image(bmp only)
+* Third: output image(bmp only)
 
 ## Example ##
 ```bash
 test.exe in.bmp out.bmp
 ```
+## Demo ##
+
+![alt tag](http://i.imgur.com/VE3ToX6.png)
+* Compare
+![alt tag](http://i.imgur.com/OGM4cDo.jpg)
+* Others effect
+![alt tag](http://i.imgur.com/lVkDZOR.png)
+![alt tag](http://i.imgur.com/wai7Mz9.png)
