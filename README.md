@@ -28,5 +28,6 @@ test.exe in.bmp out.bmp
 ![alt tag](http://i.imgur.com/wai7Mz9.png)
 
 ## Parallel version ###
-Authors: Ana María García and Andrés Felipe Delgado
 [https://github.com/anamariagp2010/Parallel-Programming-Project](https://github.com/anamariagp2010/Parallel-Programming-Project)
+
+Authors: Ana María García and Andrés Felipe Delgado
