@@ -19,9 +19,10 @@ test.exe in.bmp out.bmp
 ```
 ## Demo ##
 
-![alt tag](http://i.imgur.com/VE3ToX6.png)
-* Compare
+* Different effect pictures that we want to implement.
 ![alt tag](http://i.imgur.com/OGM4cDo.jpg)
+* Functions comparison results.
+![alt tag](http://i.imgur.com/VE3ToX6.png)
 
 * Others effect 
 
