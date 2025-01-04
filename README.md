@@ -4,7 +4,7 @@
 * C
 
 ## Final Project ##
-Distorting mirror
+Funhouse Mirror
 
 1. Put bmp.c, image.c and image.h with any folder of .c file.(main)
 2. Use command-line in 3 parameters
